@@ -10,6 +10,6 @@ public class ExampleMojo extends AbstractMojo {
 
 	@Override
 	public void execute() throws MojoExecutionException {
-		System.out.println("Example");
+		// nothing
 	}
 }
