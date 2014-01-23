@@ -3,7 +3,7 @@
         <plugins>
             <plugin>
                 <groupId>com.github.geub.plugin.maven.example</groupId>
-                <artifactId>example.maven-plugin</artifactId>
+                <artifactId>example-maven-plugin</artifactId>
                 <configuration>
                 </configuration>
             </plugin>
